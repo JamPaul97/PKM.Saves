@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKM.Saves.Gen3", "PKM.Saves
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKM.Saves.Tools", "PKM.Saves.Tools\PKM.Saves.Tools.csproj", "{8199568E-C796-46B2-BD0F-0E599803FE49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7E969594-54B5-4ED6-8C87-CA224858F9CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8199568E-C796-46B2-BD0F-0E599803FE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8199568E-C796-46B2-BD0F-0E599803FE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8199568E-C796-46B2-BD0F-0E599803FE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E969594-54B5-4ED6-8C87-CA224858F9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E969594-54B5-4ED6-8C87-CA224858F9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E969594-54B5-4ED6-8C87-CA224858F9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E969594-54B5-4ED6-8C87-CA224858F9CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
